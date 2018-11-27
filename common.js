@@ -1,1 +1,1 @@
-consol.log("動いてるよー");
+console.log("動いてるよー");
